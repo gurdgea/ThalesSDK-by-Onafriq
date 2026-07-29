@@ -17,7 +17,10 @@ search_enabled: true
 heading_anchors: true
 
 
-sample_app_url: https://github.com/OWNER/REPO
+# Repository holding the sample app this guide documents. Set explicitly rather
+# than resolved from jekyll-github-metadata, which raises "No repo name found"
+# instead of degrading when no git remote is present.
+sample_app_url: https://github.com/gurdgea/ThalesSDK-by-Onafriq
 
 sdk_version: "4.4.0"
 

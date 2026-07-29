@@ -18,6 +18,7 @@ debugApi(group = "", name = "d1-debug-4.4.0", ext = "aar")
 
 If your delivery ships a different version, update both lines to match.
 
-Delivery packages that include D1Pay or Samsung Pay also contain
-`samsungpay_<version>.jar`. This project's delivery did not — see the
-[docs](../../docs/delivery.html) for what that rules out.
+Delivery packages supporting Samsung Pay also contain `samsungpay_<version>.jar`,
+which goes in this folder too. See
+[Installation](https://gurdgea.github.io/ThalesSDK-by-Onafriq/installation.html)
+for how to verify which components your package contains.

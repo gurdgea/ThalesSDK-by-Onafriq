@@ -4,9 +4,8 @@ Sample Android application integrating the **Thales D1 SDK 4.4.0**. Cards are
 pushed into Google Pay and other token requestors; the app manages card display,
 provisioning, controls, and PIN operations.
 
-📖 **[Integration guide](https://OWNER.github.io/REPO/)** — full documentation,
-published from [`docs/`](docs/).
-*(Replace `OWNER`/`REPO` once the repository exists.)*
+📖 **[Integration guide](https://gurdgea.github.io/ThalesSDK-by-Onafriq/)** —
+full documentation, published from [`docs/`](docs/).
 
 ## Modules
 
