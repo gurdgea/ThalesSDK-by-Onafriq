@@ -34,3 +34,4 @@ superpowers/
 
 
 .playwright-mcp/
+/docs/_config.pages.yml

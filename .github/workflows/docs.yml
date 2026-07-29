@@ -46,9 +46,12 @@ jobs:
           # baseurl to emit absolute canonical URLs.
           SITE_ORIGIN: ${{ steps.pages.outputs.origin }}
         run: |
+          # `url` has no CLI equivalent - Jekyll accepts it only from a config
+          # file - so it is layered in from a generated overlay.
+          printf 'url: %s\n' "$SITE_ORIGIN" > _config.pages.yml
           bundle exec jekyll build \
+            --config _config.yml,_config.pages.yml \
             --baseurl "$BASE_PATH" \
-            --url "$SITE_ORIGIN" \
             --destination ../_site
 
       - uses: actions/upload-pages-artifact@v3
