@@ -42,9 +42,13 @@ jobs:
           # Serves the site correctly from /<repo>/ rather than the domain root.
           PAGES_REPO_NWO: ${{ github.repository }}
           BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          # Origin only (https://owner.github.io); jekyll-seo-tag joins it with
+          # baseurl to emit absolute canonical URLs.
+          SITE_ORIGIN: ${{ steps.pages.outputs.origin }}
         run: |
           bundle exec jekyll build \
             --baseurl "$BASE_PATH" \
+            --url "$SITE_ORIGIN" \
             --destination ../_site
 
       - uses: actions/upload-pages-artifact@v3
