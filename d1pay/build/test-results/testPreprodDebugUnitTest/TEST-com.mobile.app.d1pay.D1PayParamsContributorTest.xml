@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mobile.app.d1pay.D1PayParamsContributorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-07-29T15:02:39.363Z" hostname="Arinzes-M4-Pro.local" time="0.015">
+  <properties/>
+  <testcase name="reports unavailable against a non-D1Pay AAR instead of throwing" classname="com.mobile.app.d1pay.D1PayParamsContributorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

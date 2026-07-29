@@ -1,0 +1,13 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3"
+gem "just-the-docs", "~> 0.12"
+gem "jekyll-seo-tag", "~> 2.8"
+
+# Pinned to 2.x deliberately. 3.x pulls sass-embedded -> google-protobuf, and on
+# an Apple Silicon Mac running the system Ruby (RUBY_PLATFORM
+# "universal.arm64e-darwin") bundler resolves the x86_64 protobuf against an
+# arm64 sass-embedded, so `jekyll build` dies with
+# "cannot load such file -- google/protobuf_c". 2.x uses sassc and has no such
+# dependency.
+gem "jekyll-sass-converter", "~> 2.0"

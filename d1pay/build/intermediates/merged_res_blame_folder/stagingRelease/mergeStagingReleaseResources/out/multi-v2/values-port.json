@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mobile.app.d1pay-stagingRelease-36:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/9.4.1/transforms/b94e7b3b38fd86f0d9d8111010cf6f04/transformed/appcompat-1.7.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.mobile.app.d1pay-mergeStagingReleaseResources-34:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/9.4.1/transforms/b94e7b3b38fd86f0d9d8111010cf6f04/transformed/appcompat-1.7.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

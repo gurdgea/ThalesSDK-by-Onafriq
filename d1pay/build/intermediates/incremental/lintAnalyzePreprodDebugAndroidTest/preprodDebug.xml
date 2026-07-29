@@ -1,0 +1,29 @@
+<variant
+    name="preprodDebug"
+    package="com.mobile.app.d1pay"
+    minSdkVersion="27"
+    targetSdkVersion="37.0"
+    debuggable="true"
+    mergedManifest="build/intermediates/merged_manifest/preprodDebug/processPreprodDebugManifest/AndroidManifest.xml"
+    partialResultsDir="build/intermediates/android_test_lint_partial_results/preprodDebug/lintAnalyzePreprodDebugAndroidTest/out"
+    desugaredMethodsFiles="/Users/user/.gradle/caches/9.4.1/transforms/e4f7be1b43ff996b7c5b72501c41f3ba/transformed/D8BackportedDesugaredMethods.txt">
+  <buildFeatures/>
+  <sourceProviders>
+  </sourceProviders>
+  <testSourceProviders>
+    <sourceProvider
+        manifests="src/androidTest/AndroidManifest.xml"
+        javaDirectories="src/androidTest/java:src/androidTestPreprod/java:src/androidTestDebug/java:src/androidTestPreprodDebug/java:src/androidTest/kotlin:src/androidTestPreprod/kotlin:src/androidTestDebug/kotlin:src/androidTestPreprodDebug/kotlin"
+        resDirectories="src/androidTest/res:src/androidTestPreprod/res:src/androidTestDebug/res:src/androidTestPreprodDebug/res"
+        assetsDirectories="src/androidTest/assets:src/androidTestPreprod/assets:src/androidTestDebug/assets:src/androidTestPreprodDebug/assets"
+        keepRulesDirectories="src/androidTest/keepRules:src/androidTestPreprod/keepRules:src/androidTestDebug/keepRules:src/androidTestPreprodDebug/keepRules"
+        androidTest="true"/>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      type="INSTRUMENTATION_TEST"
+      applicationId="com.mobile.app.d1pay.test"
+      desugaredMethodsFiles="/Users/user/.gradle/caches/9.4.1/transforms/e4f7be1b43ff996b7c5b72501c41f3ba/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

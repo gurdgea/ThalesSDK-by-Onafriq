@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mobile.app.d1ui-stagingRelease-51:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/9.4.1/transforms/6847dae5023abe9424b53d9bab167294/transformed/material3/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.mobile.app.d1ui-mergeStagingReleaseResources-49:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/9.4.1/transforms/6847dae5023abe9424b53d9bab167294/transformed/material3/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

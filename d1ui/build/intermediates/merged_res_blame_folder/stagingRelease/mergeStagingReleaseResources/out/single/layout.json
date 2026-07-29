@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_dialog_title_material.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/notification_template_icon_group.xml",
+        "source": "com.mobile.app.d1ui-core-1.19.0-16:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_screen_simple.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_list_menu_item_layout.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_action_bar_up_container.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/select_dialog_singlechoice_material.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_list_menu_item_radio.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/ime_base_split_test_activity.xml",
+        "source": "com.mobile.app.d1ui-core-1.19.0-16:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/notification_template_part_chronometer.xml",
+        "source": "com.mobile.app.d1ui-core-1.19.0-16:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_action_menu_item_layout.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_action_menu_layout.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_alert_dialog_material.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/notification_template_custom_big.xml",
+        "source": "com.mobile.app.d1ui-core-1.19.0-16:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/notification_template_part_time.xml",
+        "source": "com.mobile.app.d1ui-core-1.19.0-16:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/custom_dialog.xml",
+        "source": "com.mobile.app.d1ui-core-1.19.0-16:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_select_dialog_material.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_action_mode_close_item_material.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_popup_menu_item_layout.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_expanded_menu_layout.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_activity_chooser_view.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_alert_dialog_title_material.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.mobile.app.d1ui-core-1.19.0-16:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_screen_content_include.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_tooltip.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_action_mode_bar.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_search_view.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_action_bar_title_item.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/fingerprint_dialog_layout.xml",
+        "source": "com.mobile.app.d1ui-biometric-1.1.0-18:/layout/fingerprint_dialog_layout.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/tokenization_fragment.xml",
+        "source": "com.mobile.app.d1ui-d1-release-4.4.0-30:/layout/tokenization_fragment.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_list_menu_item_icon.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/select_dialog_item_material.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/select_dialog_multichoice_material.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/notification_action_tombstone.xml",
+        "source": "com.mobile.app.d1ui-core-1.19.0-16:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/abc_cascading_menu_item_layout.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-stagingRelease-51:/layout/notification_action.xml",
+        "source": "com.mobile.app.d1ui-core-1.19.0-16:/layout/notification_action.xml"
+    }
+]

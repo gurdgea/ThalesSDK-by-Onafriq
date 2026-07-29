@@ -1,0 +1,31 @@
+<variant
+    name="stagingRelease"
+    package="com.mobile.app.d1pay"
+    minSdkVersion="27"
+    targetSdkVersion="37.0"
+    mergedManifest="build/intermediates/merged_manifest/stagingRelease/processStagingReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="build/outputs/logs/manifest-merger-staging-release-report.txt"
+    proguardFiles="build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-9.2.1"
+    partialResultsDir="build/intermediates/lint_partial_results/stagingRelease/lintAnalyzeStagingRelease/out">
+  <buildFeatures/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/staging/java:src/release/java:src/stagingRelease/java:src/main/kotlin:src/staging/kotlin:src/release/kotlin:src/stagingRelease/kotlin"
+        resDirectories="src/main/res:src/staging/res:src/release/res:src/stagingRelease/res"
+        assetsDirectories="src/main/assets:src/staging/assets:src/release/assets:src/stagingRelease/assets"
+        keepRulesDirectories="src/main/keepRules:src/staging/keepRules:src/release/keepRules:src/stagingRelease/keepRules"
+        aarKeepRulesDirectories="src/main/aarKeepRules:src/staging/aarKeepRules:src/release/aarKeepRules:src/stagingRelease/aarKeepRules"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="build/intermediates/javac/stagingRelease/compileStagingReleaseJavaWithJavac/classes:build/intermediates/built_in_kotlinc/stagingRelease/compileStagingReleaseKotlin/classes:build/intermediates/compile_r_class_jar/stagingRelease/generateStagingReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="com.mobile.app.d1pay"
+      generatedSourceFolders="build/generated/ap_generated_sources/stagingRelease/out"
+      desugaredMethodsFiles="/Users/user/.gradle/caches/9.4.1/transforms/e4f7be1b43ff996b7c5b72501c41f3ba/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.mobile.app.d1ui-preprodRelease-51:/animator/fragment_fade_exit.xml",
+        "source": "com.mobile.app.d1ui-fragment-1.5.7-34:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-preprodRelease-51:/animator/fragment_close_enter.xml",
+        "source": "com.mobile.app.d1ui-fragment-1.5.7-34:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-preprodRelease-51:/animator/fragment_open_enter.xml",
+        "source": "com.mobile.app.d1ui-fragment-1.5.7-34:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-preprodRelease-51:/animator/fragment_close_exit.xml",
+        "source": "com.mobile.app.d1ui-fragment-1.5.7-34:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-preprodRelease-51:/animator/tp_progress_animation.xml",
+        "source": "com.mobile.app.d1ui-d1-release-4.4.0-30:/animator/tp_progress_animation.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-preprodRelease-51:/animator/fragment_fade_enter.xml",
+        "source": "com.mobile.app.d1ui-fragment-1.5.7-34:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-preprodRelease-51:/animator/fragment_open_exit.xml",
+        "source": "com.mobile.app.d1ui-fragment-1.5.7-34:/animator/fragment_open_exit.xml"
+    }
+]

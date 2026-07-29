@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Spinner spinning in the progress animation-->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+  <objectAnimator
+      android:propertyName="trimPathEnd"
+      android:duration="1000"
+      android:valueFrom="0.05"
+      android:valueTo="0.3"
+      android:valueType="floatType"
+      android:repeatMode="reverse"
+      android:repeatCount="infinite"
+      android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+  <objectAnimator
+      android:propertyName="trimPathStart"
+      android:duration="1000"
+      android:valueFrom="0.95"
+      android:valueTo="0.7"
+      android:valueType="floatType"
+      android:repeatMode="reverse"
+      android:repeatCount="infinite"
+      android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+  <objectAnimator
+      android:propertyName="trimPathOffset"
+      android:duration="1000"
+      android:valueFrom="0"
+      android:valueTo="1"
+      android:repeatMode="restart"
+      android:repeatCount="infinite"
+      android:valueType="floatType"
+      android:interpolator="@android:anim/linear_interpolator"/>
+</set>

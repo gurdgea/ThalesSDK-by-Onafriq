@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.mobile.app.d1pay-stagingRelease-36:/animator/fragment_open_exit.xml",
+        "source": "com.mobile.app.d1pay-fragment-1.5.7-23:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1pay-stagingRelease-36:/animator/fragment_open_enter.xml",
+        "source": "com.mobile.app.d1pay-fragment-1.5.7-23:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1pay-stagingRelease-36:/animator/fragment_fade_exit.xml",
+        "source": "com.mobile.app.d1pay-fragment-1.5.7-23:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1pay-stagingRelease-36:/animator/tp_progress_animation.xml",
+        "source": "com.mobile.app.d1pay-d1-release-4.4.0-20:/animator/tp_progress_animation.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1pay-stagingRelease-36:/animator/fragment_fade_enter.xml",
+        "source": "com.mobile.app.d1pay-fragment-1.5.7-23:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1pay-stagingRelease-36:/animator/fragment_close_exit.xml",
+        "source": "com.mobile.app.d1pay-fragment-1.5.7-23:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1pay-stagingRelease-36:/animator/fragment_close_enter.xml",
+        "source": "com.mobile.app.d1pay-fragment-1.5.7-23:/animator/fragment_close_enter.xml"
+    }
+]

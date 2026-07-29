@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.mobile.app.d1ui-preprodRelease-51:/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "com.mobile.app.d1ui-play-services-auth-21.1.1-7:/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-preprodRelease-51:/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "com.mobile.app.d1ui-play-services-auth-21.1.1-7:/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-preprodRelease-51:/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "com.mobile.app.d1ui-play-services-auth-21.1.1-7:/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "com.mobile.app.d1ui-preprodRelease-51:/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "com.mobile.app.d1ui-appcompat-1.7.1-37:/drawable-watch-v20/abc_dialog_material_background.xml"
+    }
+]

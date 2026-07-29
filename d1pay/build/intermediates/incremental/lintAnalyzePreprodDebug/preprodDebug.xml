@@ -1,0 +1,32 @@
+<variant
+    name="preprodDebug"
+    package="com.mobile.app.d1pay"
+    minSdkVersion="27"
+    targetSdkVersion="37.0"
+    debuggable="true"
+    mergedManifest="build/intermediates/merged_manifest/preprodDebug/processPreprodDebugManifest/AndroidManifest.xml"
+    proguardFiles="build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-9.2.1"
+    partialResultsDir="build/intermediates/lint_partial_results/preprodDebug/lintAnalyzePreprodDebug/out"
+    desugaredMethodsFiles="/Users/user/.gradle/caches/9.4.1/transforms/e4f7be1b43ff996b7c5b72501c41f3ba/transformed/D8BackportedDesugaredMethods.txt">
+  <buildFeatures/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/preprod/java:src/debug/java:src/preprodDebug/java:src/main/kotlin:src/preprod/kotlin:src/debug/kotlin:src/preprodDebug/kotlin"
+        resDirectories="src/main/res:src/preprod/res:src/debug/res:src/preprodDebug/res"
+        assetsDirectories="src/main/assets:src/preprod/assets:src/debug/assets:src/preprodDebug/assets"
+        keepRulesDirectories="src/main/keepRules:src/preprod/keepRules:src/debug/keepRules:src/preprodDebug/keepRules"
+        aarKeepRulesDirectories="src/main/aarKeepRules:src/preprod/aarKeepRules:src/debug/aarKeepRules:src/preprodDebug/aarKeepRules"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="build/intermediates/javac/preprodDebug/compilePreprodDebugJavaWithJavac/classes:build/intermediates/built_in_kotlinc/preprodDebug/compilePreprodDebugKotlin/classes:build/intermediates/compile_r_class_jar/preprodDebug/generatePreprodDebugRFile/R.jar"
+      type="MAIN"
+      applicationId="com.mobile.app.d1pay"
+      generatedSourceFolders="build/generated/ap_generated_sources/preprodDebug/out"
+      desugaredMethodsFiles="/Users/user/.gradle/caches/9.4.1/transforms/e4f7be1b43ff996b7c5b72501c41f3ba/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

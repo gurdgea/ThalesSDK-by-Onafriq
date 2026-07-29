@@ -1,0 +1,33 @@
+# D1 SDK configuration - STAGING (Thales "Mobile SDK Sandbox")
+# Every value is supplied by the Thales delivery team at onboarding.
+# Replace all placeholders before pointing this at a real environment.
+
+# --- Onboarding parameters (D1Task.Builder) ---
+D1_SERVICE_URL=https://sandbox.client-api.d1.thalescloud.io
+ISSUER_ID=REPLACE_ME_ISSUER_ID
+DIGITAL_CARD_URL=https://sandbox.digitalcard.d1.thalescloud.io
+
+# RSA public key of the D1 service, as hex. If you were handed a PEM:
+#   openssl rsa -pubin -inform PEM -text -noout < pubkey.pem
+D1_SERVICE_RSA_MODULUS=00B1D8E4F27A3C5E9601F4A2D3B8C7E5091A2B3C4D5E6F708192A3B4C5D6E7F8
+D1_SERVICE_RSA_EXPONENT=010001
+
+# Optional, SDK 4.4.0+. Leave blank if Thales did not supply one.
+APPLICATION_PROFILE_ID=
+
+# --- Runtime identifiers ---
+CONSUMER_ID=REPLACE_ME_CONSUMER_ID
+CARD_ID=REPLACE_ME_CARD_ID
+
+# Visa only. If blank, D1 assumes it equals ISSUER_ID.
+VISA_CLIENT_APP_ID=
+
+# --- SDK behaviour ---
+CLIENT_BINDING_ENABLED=false
+SECURE_LOG_ENABLED=true
+
+# --- Authentication ---
+# Temporary. Replaced by a backend call to mint the issuer access token.
+# Must carry the SDK's binding payload as the "cbp" claim when client
+# binding is enabled, so a static token cannot satisfy that path.
+ISSUER_ACCESS_TOKEN=

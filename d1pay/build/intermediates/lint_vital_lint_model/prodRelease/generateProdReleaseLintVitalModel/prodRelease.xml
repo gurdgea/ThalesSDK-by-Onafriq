@@ -1,0 +1,31 @@
+<variant
+    name="prodRelease"
+    package="com.mobile.app.d1pay"
+    minSdkVersion="27"
+    targetSdkVersion="37.0"
+    mergedManifest="build/intermediates/merged_manifest/prodRelease/processProdReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="build/outputs/logs/manifest-merger-prod-release-report.txt"
+    proguardFiles="build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-9.2.1"
+    partialResultsDir="build/intermediates/lint_vital_partial_results/prodRelease/lintVitalAnalyzeProdRelease/out">
+  <buildFeatures/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/prod/java:src/release/java:src/prodRelease/java:src/main/kotlin:src/prod/kotlin:src/release/kotlin:src/prodRelease/kotlin"
+        resDirectories="src/main/res:src/prod/res:src/release/res:src/prodRelease/res"
+        assetsDirectories="src/main/assets:src/prod/assets:src/release/assets:src/prodRelease/assets"
+        keepRulesDirectories="src/main/keepRules:src/prod/keepRules:src/release/keepRules:src/prodRelease/keepRules"
+        aarKeepRulesDirectories="src/main/aarKeepRules:src/prod/aarKeepRules:src/release/aarKeepRules:src/prodRelease/aarKeepRules"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="build/intermediates/javac/prodRelease/compileProdReleaseJavaWithJavac/classes:build/intermediates/built_in_kotlinc/prodRelease/compileProdReleaseKotlin/classes:build/intermediates/compile_r_class_jar/prodRelease/generateProdReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="com.mobile.app.d1pay"
+      generatedSourceFolders="build/generated/ap_generated_sources/prodRelease/out"
+      desugaredMethodsFiles="/Users/user/.gradle/caches/9.4.1/transforms/e4f7be1b43ff996b7c5b72501c41f3ba/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

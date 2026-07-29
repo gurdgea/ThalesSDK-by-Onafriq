@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mobile.app.d1ui-preprodRelease-51:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/9.4.1/transforms/8e2ddfdc3d35904fd12692aa286a3e2c/transformed/d1-release-4.4.0/res/values-night-v8/values54.xml",
+                    "from": {
+                        "startLines": "3,4,5,8",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "173,244,320,497",
+                        "endLines": "3,4,5,14",
+                        "endColumns": "70,75,69,8",
+                        "endOffsets": "243,319,389,891"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,210,284",
+                        "endLines": "2,3,4,11",
+                        "endColumns": "74,79,73,8",
+                        "endOffsets": "125,205,279,678"
+                    }
+                },
+                {
+                    "source": "/Users/user/.gradle/caches/9.4.1/transforms/b94e7b3b38fd86f0d9d8111010cf6f04/transformed/appcompat-1.7.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "683,753,837,921,1017,1119,1221,1315",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "748,832,916,1012,1114,1216,1310,1399"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.mobile.app.d1ui-mergePreprodReleaseResources-49:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/9.4.1/transforms/8e2ddfdc3d35904fd12692aa286a3e2c/transformed/d1-release-4.4.0/res/values-night-v8/values54.xml",
+                    "from": {
+                        "startLines": "3,4,5,8",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "173,244,320,497",
+                        "endLines": "3,4,5,14",
+                        "endColumns": "70,75,69,8",
+                        "endOffsets": "243,319,389,891"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,210,284",
+                        "endLines": "2,3,4,11",
+                        "endColumns": "74,79,73,8",
+                        "endOffsets": "125,205,279,678"
+                    }
+                },
+                {
+                    "source": "/Users/user/.gradle/caches/9.4.1/transforms/b94e7b3b38fd86f0d9d8111010cf6f04/transformed/appcompat-1.7.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "683,753,837,921,1017,1119,1221,1315",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "748,832,916,1012,1114,1216,1310,1399"
+                    }
+                }
+            ]
+        }
+    ]
+}

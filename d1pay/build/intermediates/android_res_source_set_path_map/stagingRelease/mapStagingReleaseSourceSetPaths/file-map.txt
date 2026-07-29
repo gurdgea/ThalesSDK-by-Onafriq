@@ -1,0 +1,11 @@
+com.mobile.app.d1pay-staging-0 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/generated/res/pngs/staging/release
+com.mobile.app.d1pay-updated_navigation_xml-1 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/generated/updated_navigation_xml/stagingRelease
+com.mobile.app.d1pay-mergeStagingReleaseResources-2 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/intermediates/incremental/stagingRelease/mergeStagingReleaseResources/merged.dir
+com.mobile.app.d1pay-mergeStagingReleaseResources-3 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/intermediates/incremental/stagingRelease/mergeStagingReleaseResources/stripped.dir
+com.mobile.app.d1pay-stagingRelease-4 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/intermediates/merged_res/stagingRelease/mergeStagingReleaseResources
+com.mobile.app.d1pay-stagingRelease-5 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/intermediates/packaged_res/stagingRelease/packageStagingReleaseResources
+com.mobile.app.d1pay-main-6 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/src/main/res
+com.mobile.app.d1pay-release-7 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/src/release/res
+com.mobile.app.d1pay-staging-8 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/src/staging/res
+com.mobile.app.d1pay-stagingRelease-9 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/src/stagingRelease/res
+gradleHome-0 /Users/user/.gradle

@@ -1,0 +1,29 @@
+title: Thales D1 SDK — Android
+description: >-
+  Integration guide for the Thales D1 SDK 4.4.0 on Android: installation,
+  configuration, authentication, services, and deployment.
+
+theme: just-the-docs
+
+plugins:
+  - jekyll-seo-tag
+
+# Internal design/plan notes are kept in the repo but not published.
+exclude:
+  - superpowers/
+
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+
+sample_app_url: https://github.com/OWNER/REPO
+
+sdk_version: "4.4.0"
+
+footer_content: >-
+  Integration guide for Thales D1 SDK 4.4.0. Not affiliated with or endorsed by
+  Thales.
+
+back_to_top: true
+back_to_top_text: "Back to top"

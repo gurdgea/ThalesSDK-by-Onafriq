@@ -1,0 +1,26 @@
+<variant
+    name="preprodDebug"
+    package="com.mobile.app.d1pay"
+    minSdkVersion="27"
+    targetSdkVersion="37.0"
+    debuggable="true"
+    mergedManifest="build/intermediates/merged_manifest/preprodDebug/processPreprodDebugManifest/AndroidManifest.xml"
+    manifestMergeReport="build/outputs/logs/manifest-merger-preprod-debug-report.txt"
+    partialResultsDir="build/intermediates/unit_test_lint_partial_results/preprodDebug/lintAnalyzePreprodDebugUnitTest/out">
+  <buildFeatures/>
+  <sourceProviders>
+  </sourceProviders>
+  <testSourceProviders>
+    <sourceProvider
+        manifests="src/test/AndroidManifest.xml"
+        javaDirectories="src/test/java:src/testPreprod/java:src/testDebug/java:src/testPreprodDebug/java:src/test/kotlin:src/testPreprod/kotlin:src/testDebug/kotlin:src/testPreprodDebug/kotlin"
+        assetsDirectories="src/test/assets:src/testPreprod/assets:src/testDebug/assets:src/testPreprodDebug/assets"
+        keepRulesDirectories="src/test/keepRules:src/testPreprod/keepRules:src/testDebug/keepRules:src/testPreprodDebug/keepRules"
+        unitTest="true"/>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      type="UNIT_TEST">
+  </artifact>
+</variant>

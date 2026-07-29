@@ -1,0 +1,11 @@
+com.mobile.app.d1pay-preprod-0 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/generated/res/pngs/preprod/release
+com.mobile.app.d1pay-updated_navigation_xml-1 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/generated/updated_navigation_xml/preprodRelease
+com.mobile.app.d1pay-mergePreprodReleaseResources-2 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/intermediates/incremental/preprodRelease/mergePreprodReleaseResources/merged.dir
+com.mobile.app.d1pay-mergePreprodReleaseResources-3 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/intermediates/incremental/preprodRelease/mergePreprodReleaseResources/stripped.dir
+com.mobile.app.d1pay-preprodRelease-4 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/intermediates/merged_res/preprodRelease/mergePreprodReleaseResources
+com.mobile.app.d1pay-preprodRelease-5 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/build/intermediates/packaged_res/preprodRelease/packagePreprodReleaseResources
+com.mobile.app.d1pay-main-6 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/src/main/res
+com.mobile.app.d1pay-preprod-7 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/src/preprod/res
+com.mobile.app.d1pay-preprodRelease-8 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/src/preprodRelease/res
+com.mobile.app.d1pay-release-9 /Users/user/Projects/AndroidApplications.nosync/ThalesSDKTest/d1pay/src/release/res
+gradleHome-0 /Users/user/.gradle

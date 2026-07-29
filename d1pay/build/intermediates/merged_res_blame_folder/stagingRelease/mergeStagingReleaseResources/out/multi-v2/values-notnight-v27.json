@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mobile.app.d1pay-stagingRelease-36:/values-notnight-v27/values-notnight-v27.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/9.4.1/transforms/8e2ddfdc3d35904fd12692aa286a3e2c/transformed/d1-release-4.4.0/res/values-notnight-v27/values56.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "0",
+                        "startOffsets": "180",
+                        "endLines": "15",
+                        "endColumns": "8",
+                        "endOffsets": "991"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "14",
+                        "endColumns": "8",
+                        "endOffsets": "866"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.mobile.app.d1pay-mergeStagingReleaseResources-34:/values-notnight-v27/values-notnight-v27.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/9.4.1/transforms/8e2ddfdc3d35904fd12692aa286a3e2c/transformed/d1-release-4.4.0/res/values-notnight-v27/values56.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "0",
+                        "startOffsets": "180",
+                        "endLines": "15",
+                        "endColumns": "8",
+                        "endOffsets": "991"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "14",
+                        "endColumns": "8",
+                        "endOffsets": "866"
+                    }
+                }
+            ]
+        }
+    ]
+}

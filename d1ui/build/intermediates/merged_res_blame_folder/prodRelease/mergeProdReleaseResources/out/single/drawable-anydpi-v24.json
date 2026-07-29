@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.mobile.app.d1ui-prodRelease-51:/drawable-anydpi-v24/fingerprint_dialog_error.xml",
+        "source": "com.mobile.app.d1ui-biometric-1.1.0-18:/drawable-anydpi-v24/fingerprint_dialog_error.xml"
+    }
+]
