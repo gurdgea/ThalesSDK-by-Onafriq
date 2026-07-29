@@ -13,7 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
-/docs/superpowers/
+superpowers/
 
 /d1core/libs/*.aar
 /d1core/libs/*.jar

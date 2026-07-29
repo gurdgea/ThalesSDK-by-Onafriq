@@ -1,10 +1,6 @@
 # Thales D1 SDK binaries
 
-These are **not** committed. The D1 SDK is delivered privately under licence and
-is not on Maven Central, jcenter, or any public repository — redistributing the
-AARs in a public repo would breach that licence.
-
-Obtain them from your Thales delivery contact and drop them here:
+The D1 SDK is delivered privately under licence, obtain them from your Thales delivery contact and drop them here:
 
 ```
 d1core/libs/
