@@ -5,7 +5,7 @@ pushed into Google Pay and other token requestors; the app manages card display,
 provisioning, controls, and PIN operations.
 
 📖 **[Integration guide](https://gurdgea.github.io/ThalesSDK-by-Onafriq/)** —
-full documentation, published from [`docs/`](docs/).
+full documentation.
 
 ## Modules
 
@@ -73,26 +73,4 @@ The debug and release AARs are bound to their respective build types through
 - **PIN and activation** additionally require the issuer backend endpoints listed
   in the guide's [prerequisites](docs/prerequisites.md).
 
-## Documentation
-
-The site in [`docs/`](docs/) is built by
-[`.github/workflows/docs.yml`](.github/workflows/docs.yml) using pinned Jekyll and
-[just-the-docs](https://just-the-docs.com) versions.
-
-To publish, once:
-
-1. **Settings → Pages → Build and deployment → Source: _GitHub Actions_**
-2. Push to `main`, or run **Actions → Publish docs → Run workflow**
-3. The URL appears in the workflow's `deploy` job
-
-Set `sample_app_url` in [`docs/_config.yml`](docs/_config.yml) to this
-repository's URL so the guide links back correctly.
-
-Preview locally:
-
-```bash
-cd docs && bundle install && bundle exec jekyll serve
-```
-
-`docs/superpowers/` holds design and planning notes; it is excluded from the
-published site.
+## 
